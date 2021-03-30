@@ -48,5 +48,5 @@ make new
 オリジナル：宮下 卓也 (Takuya Miyashita)  
 miyashita (at) hydrocoast.jp
 
-Overleaf版のメンテナンス：篠原 崇之 (Takayuki Shinohara)
+Overleaf版のメンテナンス：篠原 崇之 (Takayuki Shinohara)  
 shinohara.t.af (at) m.titech.ac.jp
