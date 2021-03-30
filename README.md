@@ -40,6 +40,13 @@ make new
 オリジナルのパッケージについては土木学会が権利を所有しています．  
 利用は自由です．ただし，本リポジトリを使用したことによる査読評価等の結果に対して，本リポジトリ作成者は一切の責任を負いません．
 
+## Overleafの設定
+左上の`Menu`からコンパイラを`LaTex`に変更する．  
+`Main document`をronbun-j.texに設定する．
+
 ## 作成者
-宮下 卓也 (Takuya Miyashita)  
+オリジナル：宮下 卓也 (Takuya Miyashita)  
 miyashita (at) hydrocoast.jp
+
+Overleaf版のメンテナンス：篠原 崇之 (Takayuki Shinohara)
+shinohara.t.af (at) m.titech.ac.jp
